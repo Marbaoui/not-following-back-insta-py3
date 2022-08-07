@@ -1,12 +1,4 @@
 from instaloader import Instaloader, Profile
-
-
-def main():
-    targetProfile = "The target profie"
-    Username = "Your username"
-    Pass = "Your password"
- 
-from instaloader import Instaloader, Profile
 import os
 
 
